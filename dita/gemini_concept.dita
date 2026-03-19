@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="gemini_concept">
+    <title>What is generative AI?</title>
+    <shortdesc>Brief description of this concept.</shortdesc>
+    <conbody>
+        <p>Conceptual information goes here.</p>
+        <section>
+            <title>Section Title</title>
+            <p>Additional conceptual information.</p>
+            <p>Paragraph content</p>
+            <ul>
+                <li>First item</li>
+                <li>Second item</li>
+                <li>Third item</li>
+            </ul>
+            <p>Paragraph content</p>
+        </section>
+    </conbody>
+</concept>
