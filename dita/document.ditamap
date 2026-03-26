@@ -2,7 +2,7 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map id="document">
     <title>Google Gemini Overview</title>
-    <topicref href="index.dita">
+    <topicref href="index.dita"/>
         <topicref href="gemini_concept.dita"/>
         <topicref href="gemini_concept_strengths.dita"/>
         <topicref href="gemini_task.dita"/>
