@@ -9,9 +9,6 @@
             <title>Awesome Gemini Features</title>
             <p>Sort of cool paragraph goes here.</p>
             <p>Cool paragraph goes here</p>
-            <image href="image.png" alt="Alternativetext">
-                <alt>Here it is</alt>
-            </image>
         </section>
         <section>
             <title>Weird Gemini Things</title>
