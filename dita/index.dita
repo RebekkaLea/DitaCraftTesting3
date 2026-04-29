@@ -22,8 +22,11 @@
         </section>
         <section>
             <title>Big Fancy Title</title>
-            <fig><image href="png_gemini-image.png"></image>
-            </fig>
+            <p>
+                <fig id="fig_fwx_52d_cjc">
+                    <image href="png_gemini-image.png" id="image_gwx_52d_cjc"/>
+                </fig>
+            </p>
         </section>
         
     </body>
