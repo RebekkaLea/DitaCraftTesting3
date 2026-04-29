@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_xfy_nrd_cjc">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Cut Dogs</title>
+    <shortdesc>This topic presents two very cute dogs.</shortdesc>
     <conbody>
-        <p></p>
+        <p>Here is my main paragraph.</p>
+        <p>Here is Hamish. <image href="Hambone.png" id="image_qrr_trd_cjc"/></p>
     </conbody>
 </concept>
