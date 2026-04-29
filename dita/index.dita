@@ -22,12 +22,13 @@
         </section>
         <section>
             <title>Big Fancy Title</title>
+            <p>Here is some pretend content describing the image. Not saying anything of substance
+                here. </p>
             <p>
                 <fig id="fig_fwx_52d_cjc">
                     <image href="png_gemini-image.png" id="image_gwx_52d_cjc"/>
                 </fig>
             </p>
         </section>
-        
     </body>
 </topic>
