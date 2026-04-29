@@ -4,11 +4,12 @@
     <title>Introduction to Google Gemini</title>
     <shortdesc>Gemini is an amazing AI partner that everyone should try at least once.</shortdesc>
     <body>
-        <p>Topic content goes here.</p>
+        <p>Topic content goes here. Here is even more topic content</p>
         <section>
             <title>Awesome Gemini Features</title>
             <p>Sort of cool paragraph goes here.</p>
-            <p>Cool paragraph goes here</p>
+            <p>Cool paragraph goes here.</p>
+            <p>Another cool thing goes here.</p>
         </section>
         <section>
             <title>Weird Gemini Things</title>
@@ -19,5 +20,11 @@
                 <li>Third item</li>
             </ol>
         </section>
+        <section>
+            <title>Big Fancy Title</title>
+            <fig><image href="png_gemini-image.png"></image>
+            </fig>
+        </section>
+        
     </body>
 </topic>
